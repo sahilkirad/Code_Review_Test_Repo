@@ -18,6 +18,7 @@ def add_item(item, items=[]):
     return items
 
 # BUG: Missing error handling
+# B
 def divide(a, b):
     return a / b
 
