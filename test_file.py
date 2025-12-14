@@ -15,7 +15,7 @@ def get_user(user_id):
 # BUG: Mutable default argument
 def add_item(item, items=[]):
     items.append(item)
-    return items
+    return item
 
 # BUG: Missing error-handling
 
