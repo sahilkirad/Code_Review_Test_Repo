@@ -2,7 +2,6 @@
 
 # SECURITY ISSUE: Hardcoded API key
 API_KEY = "sk-1234567890abcdef3"
-gemini_key="AlzxYtrdcggs"
 
 # SECURITY ISSUE: SQL Injection
 def get_user(user_id):
